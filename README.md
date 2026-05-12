@@ -126,12 +126,7 @@ Project Structure
 ├── requirements.txt
 ├── README.md
 └── main.py
-Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/reddit-mental-health-topic-modeling.git
-cd reddit-mental-health-topic-modeling
 
 Install dependencies:
 
